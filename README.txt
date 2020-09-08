@@ -1,3 +1,5 @@
+To run the program, go to >src >system >Main.
+
 Assumptions we have made:
 The only assumption we make is that users will never abandon the system in the middle of a trade.
 They will always enter whether or not they showed up to the meeting, or if they got stood up.
