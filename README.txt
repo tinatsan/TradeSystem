@@ -21,5 +21,3 @@ lentMinusBorrowedThreshold = 1
 meetingEditThreshold = 3
 weeklyTransactionLimit = 7
 incompleteTransactionLimit = 3
-
-Please note that UML.pdf and UML.png are identical (aside from file type).
